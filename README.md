@@ -87,7 +87,9 @@ bash
 forge create src/GasVolatilityTrap.sol:GasVolatilityTrap \
   --rpc-url https://ethereum-hoodi-rpc.publicnode.com \
   --private-key 0x...
+```
 
+```solidity
 forge create src/GasSignalEmitter.sol:GasSignalEmitter \
   --rpc-url https://ethereum-hoodi-rpc.publicnode.com \
   --private-key 0x...
